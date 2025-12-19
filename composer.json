@@ -1,8 +1,8 @@
 {
-  "name": "webman/rate-limiter",
+  "name": "yuanyuanli/rate-limiter",
   "type": "library",
   "license": "MIT",
-  "description": "Webman plugin webman/rate-limiter",
+  "description": "yuanyuanli plugin webman/rate-limiter",
   "require": {
     "php": ">=8.0",
     "workerman/webman-framework": ">=1.5.15"
